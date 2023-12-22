@@ -1,0 +1,32 @@
+CUSTOMER SEGMENTATION
+1. Data Preparation
+2. Exploring the content of variables
+    Countries
+    Customer and Products
+        Cancelling Orders
+        StockCode
+        Basket Price
+3. Insight on product categories
+    Poduct Description
+    Product categories
+        Data Encoding 
+        Clusters of Products
+        Characterizing the content og clusters
+4. Customer categories
+    Format Data
+        Grouping ( Products , Orders)
+        Time Spliting
+    Create Customer categories
+        Data Encoding
+        Creating categories
+5. Classifying Customer
+    SVM Classifier
+        Confusion Matrix
+        Leraning Curve
+    LR
+    K Nearest
+    Decision Tree
+    RF
+    GBC
+    AdaBoost
+6. Testing the Predictions
